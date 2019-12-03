@@ -1,2 +1,7 @@
 this is my first test message
+<<<<<<< HEAD
 this is fifth line
+=======
+this is second line
+this is third line
+>>>>>>> 8631b9ea6be8fbf1759fb3d2169aa492bda75b7e
